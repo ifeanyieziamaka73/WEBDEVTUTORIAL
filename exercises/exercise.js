@@ -23,3 +23,4 @@ let radius=10
 let AreaOfAcircle=pies*(radius*radius);
 console.log(lbr)
 console.log("Area of a circle= "+AreaOfAcircle)
+let math=
